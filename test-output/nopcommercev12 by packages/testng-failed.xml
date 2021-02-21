@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [nopcommercev12 by packages]">
+  <test verbose="2" name="com.nopcommerce.testCases">
+    <packages>
+      <package name="com.nopcommerce.testCases"/>
+    </packages>
+    <classes>
+      <class name="com.nopcommerce.testCases.TC_addCustomer_003"/>
+      <class name="com.nopcommerce.testCases.TC_DataDriven_Test_002"/>
+      <class name="com.nopcommerce.testCases.TC_SearchCustomer_004"/>
+      <class name="com.nopcommerce.testCases.TC_testLogin_001"/>
+    </classes>
+  </test> <!-- com.nopcommerce.testCases -->
+  <test name="com.nopcommerce.testCases(failed)">
+    <classes>
+      <class name="com.nopcommerce.testCases.TC_addCustomer_003">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="testNopcomCustomer"/>
+        </methods>
+      </class> <!-- com.nopcommerce.testCases.TC_addCustomer_003 -->
+      <class name="com.nopcommerce.testCases.TC_testLogin_001">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.nopcommerce.testCases.TC_testLogin_001 -->
+      <class name="com.nopcommerce.testCases.TC_SearchCustomer_004">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.nopcommerce.testCases.TC_SearchCustomer_004 -->
+      <class name="com.nopcommerce.testCases.TC_DataDriven_Test_002">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.nopcommerce.testCases.TC_DataDriven_Test_002 -->
+    </classes>
+  </test> <!-- com.nopcommerce.testCases(failed) -->
+</suite> <!-- Failed suite [nopcommercev12 by packages] -->

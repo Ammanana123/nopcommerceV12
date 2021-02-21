@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="nopcommerce" thread-count="3">
+<listners>
+<listner class-name="com.nopcommerce.Utilities.ExtentReportManager"/>
+</listners>
+<test name="nopcommercetest">
+<classes>
+<class name="com.nopcommerce.testCases.TC_testLogin_001"/>
+<class name="com.nopcommerce.testCases.TC_DataDriven_Test_002"/>
+<class name="com.nopcommerce.testCases.TC_addCustomer_003"/>
+<class name="comm.nopcommerce.testCases.TC_SearchCustomer_004.java"/>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="100163" started-at="2021-02-20T04:45:37Z" finished-at="2021-02-20T04:47:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="100163" started-at="2021-02-20T04:45:37Z" finished-at="2021-02-20T04:47:17Z">
+      <class name="com.nopcommerce.testCases.TC_testLogin_001">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nopcommerce.testCases.TC_testLogin_001@6ed3ccb2]" name="setup" is-config="true" duration-ms="4131" started-at="2021-02-19T23:45:37Z" finished-at="2021-02-19T23:45:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginDetails()[pri:0, instance:com.nopcommerce.testCases.TC_testLogin_001@6ed3ccb2]" name="loginDetails" duration-ms="7094" started-at="2021-02-19T23:45:41Z" finished-at="2021-02-19T23:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testCases.TC_testLogin_001@6ed3ccb2]" name="tearDown" is-config="true" duration-ms="784" started-at="2021-02-19T23:45:48Z" finished-at="2021-02-19T23:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.testCases.TC_testLogin_001 -->
+      <class name="com.nopcommerce.testCases.TC_SearchCustomer_004">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nopcommerce.testCases.TC_SearchCustomer_004@489115ef]" name="setup" is-config="true" duration-ms="1487" started-at="2021-02-19T23:46:49Z" finished-at="2021-02-19T23:46:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchCustomer()[pri:0, instance:com.nopcommerce.testCases.TC_SearchCustomer_004@489115ef]" name="searchCustomer" duration-ms="25738" started-at="2021-02-19T23:46:50Z" finished-at="2021-02-19T23:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testCases.TC_SearchCustomer_004@489115ef]" name="tearDown" is-config="true" duration-ms="756" started-at="2021-02-19T23:47:16Z" finished-at="2021-02-19T23:47:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.testCases.TC_SearchCustomer_004 -->
+      <class name="com.nopcommerce.testCases.TC_DataDriven_Test_002">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nopcommerce.testCases.TC_DataDriven_Test_002@15de0b3c]" name="setup" is-config="true" duration-ms="1486" started-at="2021-02-19T23:46:22Z" finished-at="2021-02-19T23:46:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testDataDriven(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_DataDriven_Test_002@15de0b3c]" name="testDataDriven" duration-ms="10929" started-at="2021-02-19T23:46:25Z" data-provider="Logindata" finished-at="2021-02-19T23:46:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@yourstore.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[pass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataDriven -->
+        <test-method status="PASS" signature="testDataDriven(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_DataDriven_Test_002@15de0b3c]" name="testDataDriven" duration-ms="3878" started-at="2021-02-19T23:46:36Z" data-provider="Logindata" finished-at="2021-02-19T23:46:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@yourstore.co]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataDriven -->
+        <test-method status="PASS" signature="testDataDriven(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_DataDriven_Test_002@15de0b3c]" name="testDataDriven" duration-ms="3926" started-at="2021-02-19T23:46:40Z" data-provider="Logindata" finished-at="2021-02-19T23:46:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@yourstore.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[adm]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataDriven -->
+        <test-method status="PASS" signature="testDataDriven(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_DataDriven_Test_002@15de0b3c]" name="testDataDriven" duration-ms="4441" started-at="2021-02-19T23:46:44Z" data-provider="Logindata" finished-at="2021-02-19T23:46:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin@store.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[adm]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fail]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataDriven -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testCases.TC_DataDriven_Test_002@15de0b3c]" name="tearDown" is-config="true" duration-ms="754" started-at="2021-02-19T23:46:48Z" finished-at="2021-02-19T23:46:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.testCases.TC_DataDriven_Test_002 -->
+      <class name="com.nopcommerce.testCases.TC_addCustomer_003">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.nopcommerce.testCases.TC_addCustomer_003@1a677343]" name="setup" is-config="true" duration-ms="1568" started-at="2021-02-19T23:45:49Z" finished-at="2021-02-19T23:45:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testNopcomCustomer()[pri:0, instance:com.nopcommerce.testCases.TC_addCustomer_003@1a677343]" name="testNopcomCustomer" duration-ms="30543" started-at="2021-02-19T23:45:50Z" finished-at="2021-02-19T23:46:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNopcomCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testCases.TC_addCustomer_003@1a677343]" name="tearDown" is-config="true" duration-ms="735" started-at="2021-02-19T23:46:21Z" finished-at="2021-02-19T23:46:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.testCases.TC_addCustomer_003 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

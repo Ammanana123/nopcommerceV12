@@ -1,0 +1,574 @@
+[INFO ] 14-02-2021 05:12:05.806 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 05:12:07.101 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 14-02-2021 05:12:11.722 TC_testLogin_001 - ***Validation successful***
+[INFO ] 14-02-2021 05:30:11.502 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 05:31:18.038 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 05:32:12.904 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 05:36:02.542 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 05:52:28.100 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 05:54:18.457 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 05:55:18.766 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 05:56:31.808 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:00:26.854 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:04:01.494 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:12:14.414 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:12:58.062 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:15:09.666 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:19:44.927 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:22:43.540 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:25:28.300 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:26:13.270 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:30:36.594 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:33:53.831 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:35:52.555 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:46:57.668 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:48:50.744 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:52:15.980 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:52:43.654 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:55:57.453 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 06:59:39.801 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 07:02:29.793 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 07:05:47.627 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 07:06:40.260 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 07:10:20.311 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 07:10:21.836 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 14-02-2021 07:10:25.666 TC_testLogin_001 - ***Validation successful***
+[INFO ] 14-02-2021 07:26:25.771 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 07:26:27.068 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 14-02-2021 07:26:30.509 TC_testLogin_001 - ***Validation successful***
+[INFO ] 14-02-2021 07:29:54.070 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 07:29:55.495 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 14-02-2021 07:29:58.673 TC_testLogin_001 - ***Validation successful***
+[INFO ] 14-02-2021 07:38:14.610 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 07:43:31.271 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 07:45:22.560 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 09:05:08.634 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 09:05:53.915 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 09:06:34.820 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 10:26:57.145 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 14-02-2021 10:27:29.800 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 17-02-2021 03:22:16.844 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 17-02-2021 03:24:25.136 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 17-02-2021 03:24:27.188 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 17-02-2021 03:24:31.451 TC_testLogin_001 - ***Validation successful***
+[INFO ] 17-02-2021 03:32:17.061 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 17-02-2021 03:32:18.441 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 17-02-2021 03:32:22.136 TC_testLogin_001 - ***Validation successful***
+[INFO ] 17-02-2021 03:34:16.380 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 17-02-2021 03:34:17.501 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 17-02-2021 03:34:21.159 TC_testLogin_001 - ***Validation successful***
+[INFO ] 17-02-2021 03:36:18.685 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 17-02-2021 03:36:20.349 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 17-02-2021 03:36:24.508 TC_testLogin_001 - ***Validation successful***
+[INFO ] 17-02-2021 03:43:08.770 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 17-02-2021 03:43:10.501 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 17-02-2021 03:43:14.497 TC_testLogin_001 - ***Validation successful***
+[INFO ] 17-02-2021 04:01:14.205 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:01:15.306 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:01:15.543 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:01:16.124 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:01:16.198 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:01:16.749 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:01:16.825 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:01:17.522 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:04:47.083 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:04:48.112 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:04:48.183 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:04:48.858 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:04:48.925 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:04:49.489 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:04:49.568 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:04:50.207 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:08:21.488 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:08:22.487 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:08:22.661 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:08:23.232 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:08:23.308 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:08:23.843 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:08:23.907 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:08:24.217 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:08:54.350 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:08:55.345 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:08:55.528 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:08:56.141 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:08:56.230 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:08:56.783 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:08:56.852 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:08:57.392 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:11:49.741 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 17-02-2021 04:11:51.053 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 17-02-2021 04:11:54.685 TC_testLogin_001 - ***Validation successful***
+[INFO ] 17-02-2021 04:12:47.671 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:12:48.770 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:12:48.848 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:12:49.449 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:12:49.516 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:12:50.061 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:12:50.255 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:12:50.606 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:26:24.790 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:26:25.933 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:26:26.001 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:26:26.559 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:26:26.624 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:26:27.304 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:26:27.399 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:26:27.915 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:51:11.370 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:51:12.410 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:51:20.891 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 04:51:24.755 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 04:51:24.757 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:51:25.372 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:51:31.282 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 04:51:31.282 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 04:51:31.284 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:51:31.824 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:51:37.761 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 04:51:37.761 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 04:51:37.763 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 04:51:38.293 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 04:51:43.880 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 04:51:43.880 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 05:29:04.978 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 05:29:06.077 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 05:29:14.600 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 05:29:18.779 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 05:29:18.781 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 05:29:19.123 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 05:29:25.103 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 05:29:25.103 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 05:29:25.105 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 05:29:25.761 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 05:29:31.662 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 05:29:31.662 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 05:29:31.664 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 05:29:32.222 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 05:29:38.115 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 05:29:38.115 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 05:34:37.344 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 17-02-2021 05:34:38.691 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 17-02-2021 05:34:42.889 TC_testLogin_001 - ***Validation successful***
+[INFO ] 17-02-2021 05:35:44.570 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 05:35:45.258 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 05:35:53.914 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 05:35:58.050 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 05:35:58.052 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 05:35:58.398 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 05:36:04.011 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 05:36:04.011 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 05:36:04.013 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 05:36:04.270 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 05:36:09.890 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 05:36:09.890 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 05:36:09.892 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 05:36:10.490 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 05:36:16.354 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 05:36:16.354 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 05:36:18.665 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 17-02-2021 05:36:19.927 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 17-02-2021 05:36:22.652 TC_testLogin_001 - ***Validation successful***
+[INFO ] 17-02-2021 05:56:56.172 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 05:56:57.382 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[WARN ] 17-02-2021 05:57:06.698 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 failed****
+[INFO ] 17-02-2021 05:57:07.132 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 05:57:07.516 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 05:57:13.706 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 05:57:13.706 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 05:57:13.708 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 05:57:14.229 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 05:57:20.133 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 05:57:20.133 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 05:57:20.136 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 05:57:20.729 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 05:57:26.615 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 05:57:26.616 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 06:15:56.137 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 06:15:57.487 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[WARN ] 17-02-2021 06:16:06.552 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 failed****
+[INFO ] 17-02-2021 06:16:06.952 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 06:16:07.485 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 06:16:13.998 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 06:16:13.998 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 06:16:14.000 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 06:16:14.288 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 06:16:19.912 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 06:16:19.912 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 17-02-2021 06:16:19.914 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 17-02-2021 06:16:20.249 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 17-02-2021 06:16:25.878 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 17-02-2021 06:16:25.878 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 18-02-2021 07:27:56.526 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 07:27:57.637 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 07:28:04.299 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 07:28:10.458 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 07:36:41.470 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 07:36:42.656 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 07:36:49.640 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 07:36:56.548 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 07:38:33.205 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 07:38:34.572 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 07:38:40.723 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 07:38:46.279 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 07:42:16.978 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 07:42:18.339 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 07:42:24.771 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 07:42:30.712 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 07:59:24.049 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 07:59:25.739 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 07:59:33.278 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 07:59:38.737 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 08:02:03.928 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 08:02:05.298 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 08:02:11.477 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 08:02:18.322 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 08:03:11.690 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 08:03:12.903 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 08:03:19.139 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 08:03:24.905 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 08:05:23.374 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 08:05:24.708 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 08:05:31.300 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 08:05:37.662 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 08:28:24.436 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 08:28:25.789 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 08:28:32.898 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 08:28:38.591 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 08:49:56.067 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 08:50:20.040 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 08:50:36.283 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 08:50:45.988 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 08:58:00.356 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 08:58:01.766 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 08:58:07.771 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 08:58:13.319 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 09:05:05.366 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 09:05:06.802 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 09:05:13.035 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 09:05:18.520 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 09:18:17.048 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 09:18:18.253 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 09:18:24.922 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 09:18:31.289 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 09:26:10.495 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 09:26:11.813 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 09:26:18.658 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 09:26:24.586 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 09:36:23.735 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 09:36:24.755 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 09:36:31.631 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 09:36:37.541 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 10:41:15.234 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 10:41:21.031 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 10:41:34.831 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 10:41:50.183 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 10:43:26.810 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 10:43:29.170 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 10:43:37.574 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 10:43:43.833 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 10:44:57.274 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 10:44:59.300 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 10:45:07.673 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 10:45:13.911 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 10:46:51.580 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 10:47:03.832 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 10:47:11.310 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 10:47:19.758 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 10:47:38.555 TC_addCustomer_003 - ****Customer details added****
+[WARN ] 18-02-2021 10:47:38.588 TC_addCustomer_003 - ***testNopcomCustomer method failed****
+[INFO ] 18-02-2021 10:50:08.832 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 10:50:11.096 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 10:50:18.899 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 10:50:25.287 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 10:50:42.469 TC_addCustomer_003 - ****Customer details added****
+[INFO ] 18-02-2021 11:01:38.121 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 11:01:40.396 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 11:01:47.780 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 11:01:54.676 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 11:02:09.319 TC_addCustomer_003 - ****Customer details added****
+[INFO ] 18-02-2021 11:02:51.485 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 11:02:53.136 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 11:02:59.361 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 11:03:05.692 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 11:03:24.273 TC_addCustomer_003 - ****Customer details added****
+[WARN ] 18-02-2021 11:03:24.306 TC_addCustomer_003 - ***testNopcomCustomer method failed****
+[INFO ] 18-02-2021 11:41:32.735 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 11:41:34.843 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 11:41:41.558 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 11:41:51.389 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 11:42:10.043 TC_addCustomer_003 - ****Customer details added****
+[WARN ] 18-02-2021 11:42:10.077 TC_addCustomer_003 - ***testNopcomCustomer method failed****
+[INFO ] 18-02-2021 11:46:16.351 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 11:46:19.511 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 11:46:30.897 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 11:46:39.775 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 11:47:07.519 TC_addCustomer_003 - ****Customer details added****
+[INFO ] 18-02-2021 11:55:55.576 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 18-02-2021 11:55:57.529 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 18-02-2021 11:56:04.472 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 18-02-2021 11:56:09.961 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 18-02-2021 11:56:29.343 TC_addCustomer_003 - ****Customer details added****
+[WARN ] 18-02-2021 11:56:29.386 TC_addCustomer_003 - ***testNopcomCustomer method failed****
+[INFO ] 19-02-2021 12:06:24.925 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 19-02-2021 12:06:26.728 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 19-02-2021 12:06:33.346 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 19-02-2021 12:06:38.901 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 19-02-2021 12:06:56.137 TC_addCustomer_003 - ****Customer details added****
+[WARN ] 19-02-2021 12:06:56.185 TC_addCustomer_003 - ***testNopcomCustomer method failed****
+[INFO ] 19-02-2021 12:07:01.456 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 19-02-2021 12:07:03.230 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[WARN ] 19-02-2021 12:07:13.483 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 failed****
+[INFO ] 19-02-2021 12:07:13.911 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 19-02-2021 12:07:14.325 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 19-02-2021 12:07:20.006 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 19-02-2021 12:07:20.007 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 19-02-2021 12:07:20.009 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 19-02-2021 12:07:20.372 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 19-02-2021 12:07:26.242 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 19-02-2021 12:07:26.243 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 19-02-2021 12:07:26.246 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 19-02-2021 12:07:27.593 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 19-02-2021 12:07:33.304 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 19-02-2021 12:07:33.304 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 19-02-2021 12:07:35.737 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 19-02-2021 12:07:37.202 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 19-02-2021 12:07:40.458 TC_testLogin_001 - ***Validation successful***
+[INFO ] 19-02-2021 12:13:42.218 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 19-02-2021 12:13:43.455 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[WARN ] 19-02-2021 12:13:52.596 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 failed****
+[INFO ] 19-02-2021 12:13:53.032 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 19-02-2021 12:13:53.402 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 19-02-2021 12:13:59.376 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 19-02-2021 12:13:59.377 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 19-02-2021 12:13:59.380 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 19-02-2021 12:14:00.718 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 19-02-2021 12:14:06.557 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 19-02-2021 12:14:06.557 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 19-02-2021 12:14:06.559 TC_Check_DataDrivenTest_002 - ***Starting TC_testLogin_002***
+[INFO ] 19-02-2021 12:14:07.661 TC_Check_DataDrivenTest_002 - *** Validating Login details***
+[INFO ] 19-02-2021 12:14:14.118 TC_Check_DataDrivenTest_002 - ***TC_Check_DataDrivenTest_002 passed****
+[INFO ] 19-02-2021 12:14:14.118 TC_Check_DataDrivenTest_002 - ****TC_Check_DataDrivenTest_002 finished****
+[INFO ] 19-02-2021 12:20:40.221 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 19-02-2021 12:20:43.700 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 19-02-2021 12:20:50.753 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 19-02-2021 12:20:56.538 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 19-02-2021 12:22:02.965 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 19-02-2021 12:22:04.300 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 19-02-2021 12:22:11.022 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 19-02-2021 12:22:16.630 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 19-02-2021 12:22:33.746 TC_addCustomer_003 - ****Customer details added****
+[WARN ] 19-02-2021 12:22:33.779 TC_addCustomer_003 - ***testNopcomCustomer method failed****
+[INFO ] 19-02-2021 04:23:02.220 TC_SearchCustomer_004 - ***Starting TC_SearchCustomer_004***
+[INFO ] 19-02-2021 04:23:03.452 TC_SearchCustomer_004 - *** Validating Login details of testcase 004***
+[INFO ] 19-02-2021 04:23:09.963 TC_SearchCustomer_004 - ***** Clicking on customer to find search customer ****
+[INFO ] 19-02-2021 04:25:10.143 TC_SearchCustomer_004 - ***Starting TC_SearchCustomer_004***
+[INFO ] 19-02-2021 04:25:11.480 TC_SearchCustomer_004 - *** Validating Login details of testcase 004***
+[INFO ] 19-02-2021 04:25:17.910 TC_SearchCustomer_004 - ***** Clicking on customer to find search customer ****
+[INFO ] 19-02-2021 04:39:40.921 TC_SearchCustomer_004 - ***Starting TC_SearchCustomer_004***
+[INFO ] 19-02-2021 04:39:42.161 TC_SearchCustomer_004 - *** Validating Login details of testcase 004***
+[INFO ] 19-02-2021 04:39:49.069 TC_SearchCustomer_004 - ***** Clicking on customer to find search customer ****
+[WARN ] 19-02-2021 04:39:54.867 TC_SearchCustomer_004 - ***** TC_SearchCustomer_004  failed
+[INFO ] 19-02-2021 04:43:01.862 TC_SearchCustomer_004 - ***Starting TC_SearchCustomer_004***
+[INFO ] 19-02-2021 04:43:03.183 TC_SearchCustomer_004 - *** Validating Login details of testcase 004***
+[INFO ] 19-02-2021 04:43:10.162 TC_SearchCustomer_004 - ***** Clicking on customer to find search customer ****
+[INFO ] 19-02-2021 04:43:16.063 TC_SearchCustomer_004 - **** TC_SearchCustomer_004 passed successfully
+[INFO ] 19-02-2021 04:51:33.416 TC_SearchCustomer_004 - ***Starting TC_SearchCustomer_004***
+[INFO ] 19-02-2021 04:51:34.953 TC_SearchCustomer_004 - *** Validating Login details of testcase 004***
+[INFO ] 19-02-2021 04:51:41.294 TC_SearchCustomer_004 - ***** Clicking on customer to find search customer ****
+[INFO ] 19-02-2021 04:51:50.017 TC_SearchCustomer_004 - **** TC_SearchCustomer_004 passed successfully
+[INFO ] 19-02-2021 07:12:50.493 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:12:51.488 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:12:58.466 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:13:03.144 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:13:03.709 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:13:07.365 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:13:37.419 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:13:37.779 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:13:41.415 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:14:11.436 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:14:11.785 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:14:15.438 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:26:39.943 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:26:40.943 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:26:48.129 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:26:52.358 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 07:26:52.361 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:26:52.668 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:26:56.375 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:27:26.405 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:27:26.749 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:27:30.389 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:28:00.426 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:28:01.048 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:28:04.950 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:30:29.793 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:30:30.753 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:30:37.658 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:30:41.791 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 07:30:41.794 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:30:42.379 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:30:46.280 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:31:16.333 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:31:16.918 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:31:20.582 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:31:50.644 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:31:51.349 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:31:55.271 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:47:00.877 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:47:02.285 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:47:09.971 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:47:14.216 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 07:47:14.218 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:47:14.786 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:47:18.789 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:47:18.789 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 07:47:18.791 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:47:19.093 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:47:22.976 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:47:22.976 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 07:47:22.978 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:47:23.322 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:47:27.184 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:47:27.184 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 07:49:18.198 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:49:18.894 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:49:25.261 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:49:29.207 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 07:49:29.209 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:49:29.476 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:49:33.440 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:49:33.440 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 07:49:33.442 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:49:33.749 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:49:37.343 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:49:37.344 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 07:49:37.345 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 07:49:37.648 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 07:49:41.236 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 07:49:41.236 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 10:37:17.122 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 19-02-2021 10:37:19.080 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 19-02-2021 10:37:25.525 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 19-02-2021 10:37:31.410 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 19-02-2021 10:37:38.313 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 10:37:38.934 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 10:37:45.689 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 10:37:49.869 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 10:37:49.871 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 10:37:50.163 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 10:37:53.783 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 10:37:53.783 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 10:37:53.785 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 10:37:54.367 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 10:37:57.969 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 10:37:57.969 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 10:37:57.971 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 10:37:58.515 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 10:38:02.178 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 10:38:02.179 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 10:38:04.502 TC_SearchCustomer_004 - ***Starting TC_SearchCustomer_004***
+[INFO ] 19-02-2021 10:38:06.082 TC_SearchCustomer_004 - *** Validating Login details of testcase 004***
+[INFO ] 19-02-2021 10:38:12.649 TC_SearchCustomer_004 - ***** Clicking on customer to find search customer ****
+[INFO ] 19-02-2021 10:38:21.453 TC_SearchCustomer_004 - **** TC_SearchCustomer_004 passed successfully
+[INFO ] 19-02-2021 10:38:23.859 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 19-02-2021 10:38:25.220 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 19-02-2021 10:38:28.072 TC_testLogin_001 - ***Validation successful***
+[INFO ] 19-02-2021 10:48:03.166 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 19-02-2021 10:48:04.683 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 19-02-2021 10:48:11.685 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 19-02-2021 10:48:17.551 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 19-02-2021 10:48:35.031 TC_addCustomer_003 - ****Customer details added****
+[INFO ] 19-02-2021 10:48:35.065 TC_addCustomer_003 - ***testNopcomCustomer method passed successfully
+[INFO ] 19-02-2021 10:55:46.844 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 19-02-2021 10:55:48.279 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 19-02-2021 10:55:54.874 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 19-02-2021 10:56:00.470 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 19-02-2021 10:56:17.859 TC_addCustomer_003 - ****Customer details added****
+[INFO ] 19-02-2021 10:56:17.896 TC_addCustomer_003 - ***testNopcomCustomer method passed successfully
+[INFO ] 19-02-2021 11:38:16.662 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 19-02-2021 11:38:17.993 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 19-02-2021 11:38:21.239 TC_testLogin_001 - ***Validation successful***
+[INFO ] 19-02-2021 11:38:23.649 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 19-02-2021 11:38:25.189 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 19-02-2021 11:38:31.677 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 19-02-2021 11:38:37.534 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 19-02-2021 11:38:54.391 TC_addCustomer_003 - ****Customer details added****
+[INFO ] 19-02-2021 11:38:54.429 TC_addCustomer_003 - ***testNopcomCustomer method passed successfully
+[INFO ] 19-02-2021 11:38:58.784 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 11:38:59.436 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 11:39:05.843 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 11:39:09.930 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 11:39:09.937 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 11:39:10.209 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 11:39:13.820 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 11:39:13.821 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 11:39:13.824 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 11:39:14.376 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 11:39:17.990 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 11:39:17.990 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 11:39:17.992 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 11:39:18.282 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 11:39:21.902 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 11:39:21.902 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 11:39:24.263 TC_SearchCustomer_004 - ***Starting TC_SearchCustomer_004***
+[INFO ] 19-02-2021 11:39:25.449 TC_SearchCustomer_004 - *** Validating Login details of testcase 004***
+[INFO ] 19-02-2021 11:39:30.783 TC_SearchCustomer_004 - ***** Clicking on customer to find search customer ****
+[INFO ] 19-02-2021 11:39:39.355 TC_SearchCustomer_004 - **** TC_SearchCustomer_004 passed successfully
+[INFO ] 19-02-2021 11:41:31.450 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 19-02-2021 11:41:32.854 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 19-02-2021 11:41:36.325 TC_testLogin_001 - ***Validation successful***
+[INFO ] 19-02-2021 11:41:38.674 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 19-02-2021 11:41:39.919 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 19-02-2021 11:41:46.796 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 19-02-2021 11:41:52.230 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 19-02-2021 11:42:09.152 TC_addCustomer_003 - ****Customer details added****
+[INFO ] 19-02-2021 11:42:09.189 TC_addCustomer_003 - ***testNopcomCustomer method passed successfully
+[INFO ] 19-02-2021 11:42:13.035 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 11:42:13.607 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 11:42:19.678 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 11:42:23.503 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 11:42:23.508 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 11:42:23.778 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 11:42:27.393 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 11:42:27.393 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 11:42:27.395 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 11:42:27.708 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 11:42:31.313 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 11:42:31.313 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 11:42:31.314 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 11:42:31.629 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 11:42:35.214 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 11:42:35.214 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 11:42:37.573 TC_SearchCustomer_004 - ***Starting TC_SearchCustomer_004***
+[INFO ] 19-02-2021 11:42:38.742 TC_SearchCustomer_004 - *** Validating Login details of testcase 004***
+[INFO ] 19-02-2021 11:42:44.620 TC_SearchCustomer_004 - ***** Clicking on customer to find search customer ****
+[INFO ] 19-02-2021 11:42:53.142 TC_SearchCustomer_004 - **** TC_SearchCustomer_004 passed successfully
+[INFO ] 19-02-2021 11:45:41.325 TC_testLogin_001 - ***Starting TC_testLogin_001***
+[INFO ] 19-02-2021 11:45:44.551 TC_testLogin_001 - *** Validating Login details***
+[INFO ] 19-02-2021 11:45:48.405 TC_testLogin_001 - ***Validation successful***
+[INFO ] 19-02-2021 11:45:50.767 TC_addCustomer_003 - ***Starting TC_testLogin_003***
+[INFO ] 19-02-2021 11:45:52.272 TC_addCustomer_003 - *** Validating Login details***
+[INFO ] 19-02-2021 11:45:58.585 TC_addCustomer_003 - ***Adding new customer***
+[INFO ] 19-02-2021 11:46:03.996 TC_addCustomer_003 - ***Filling the new customer details****
+[INFO ] 19-02-2021 11:46:21.268 TC_addCustomer_003 - ****Customer details added****
+[INFO ] 19-02-2021 11:46:21.308 TC_addCustomer_003 - ***testNopcomCustomer method passed successfully
+[INFO ] 19-02-2021 11:46:25.423 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 11:46:26.095 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 11:46:32.222 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 11:46:36.345 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 11:46:36.349 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 11:46:36.625 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 11:46:40.224 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 11:46:40.225 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 11:46:40.227 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 11:46:40.554 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 11:46:44.152 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 11:46:44.152 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 11:46:44.154 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 ***
+[INFO ] 19-02-2021 11:46:44.710 TC_DataDriven_Test_002 - *** Validating Login details***
+[INFO ] 19-02-2021 11:46:48.593 TC_DataDriven_Test_002 - ***TC_DataDriven_Test_002 passed successfully***
+[INFO ] 19-02-2021 11:46:48.594 TC_DataDriven_Test_002 - **** TC_DataDriven_Test_002 passed successfully ****
+[INFO ] 19-02-2021 11:46:50.838 TC_SearchCustomer_004 - ***Starting TC_SearchCustomer_004***
+[INFO ] 19-02-2021 11:46:52.204 TC_SearchCustomer_004 - *** Validating Login details of testcase 004***
+[INFO ] 19-02-2021 11:47:08.026 TC_SearchCustomer_004 - ***** Clicking on customer to find search customer ****
+[INFO ] 19-02-2021 11:47:16.574 TC_SearchCustomer_004 - **** TC_SearchCustomer_004 passed successfully
